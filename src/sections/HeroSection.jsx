@@ -5,7 +5,7 @@ import { useGSAP } from "@gsap/react";
 import gsap from "gsap";
 import AnimatedCounter from "../components/AnimatedCounter.jsx";
 
-const Hero = () => {
+const HeroSection = () => {
   useGSAP(() => {
     gsap.fromTo(
       ".hero-text h1",
@@ -80,4 +80,4 @@ const Hero = () => {
     </section>
   );
 };
-export default Hero;
+export default HeroSection;
