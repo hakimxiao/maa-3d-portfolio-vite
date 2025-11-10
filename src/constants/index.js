@@ -126,7 +126,7 @@ const techStackIcons = [
 const expCards = [
     {
         review:
-            "Hakim adalah seorang pembelajar mandiri dengan semangat tinggi dalam bidang pemrograman. Selama lebih dari satu setengah tahun, ia konsisten mengasah kemampuan di berbagai teknologi modern.",
+            "Hakim adalah seorang pembelajar mandiri dengan semangat tinggi dalam bidang pemrograman. Selama lebih dari satu setengah tahun, ia konsisten mengasah kemampuan di berbagai teknologi modern, termasuk pengelolaan hosting dan deployment menggunakan Hostinger.",
         imgPath: "/images/exp1.png",
         logoPath: "/images/logo1.png",
         title: "Perjalanan Belajar & Pengembangan Diri",
@@ -134,10 +134,37 @@ const expCards = [
         responsibilities: [
             "Mempelajari pemrograman secara mandiri dengan fokus pada Python, JavaScript, dan pengembangan web modern.",
             "Membangun berbagai proyek pribadi untuk memperdalam logika, struktur kode, dan desain antarmuka.",
-            "Terus memperbarui pengetahuan dengan mengikuti tren teknologi terbaru dan praktik terbaik dalam pengembangan perangkat lunak.",
+            "Mengenal proses deployment dan pengelolaan website menggunakan layanan hosting seperti Hostinger.",
+        ],
+    },
+    {
+        review:
+            "Sebagai pembelajar otodidak, Hakim aktif mengeksplorasi teknologi backend modern dan layanan cloud open-source seperti Appwrite untuk memahami dasar manajemen database serta autentikasi aplikasi.",
+        imgPath: "/images/exp2.png",
+        logoPath: "/images/logo2.png",
+        title: "Eksplorasi Teknologi & Kursus Online",
+        date: "Januari 2024 - Sekarang",
+        responsibilities: [
+            "Mengikuti berbagai kursus gratis di platform seperti FreeCodeCamp, Coursera, dan YouTube untuk memperluas pemahaman di bidang frontend dan backend development.",
+            "Mempelajari konsep REST API, autentikasi, manajemen database, serta integrasi backend menggunakan Appwrite.",
+            "Menerapkan hasil pembelajaran ke dalam proyek kecil untuk memperkuat pemahaman teori melalui praktik langsung.",
+        ],
+    },
+    {
+        review:
+            "Hakim terus mengasah kemampuan teknisnya dengan mempelajari containerization menggunakan Docker, sekaligus mengintegrasikannya dalam proyek web pribadi sebagai bentuk praktik DevOps dasar.",
+        imgPath: "/images/exp3.png",
+        logoPath: "/images/logo3.png",
+        title: "Pengembangan Portofolio & Praktik Mandiri",
+        date: "Juli 2024 - Sekarang",
+        responsibilities: [
+            "Membangun dan mengelola proyek portofolio pribadi menggunakan HTML, CSS, JavaScript, serta framework modern.",
+            "Mempelajari dasar penggunaan Docker untuk membuat lingkungan pengembangan yang konsisten dan portabel.",
+            "Berfokus pada penerapan prinsip UI/UX serta desain responsif dalam proyek web.",
         ],
     },
 ];
+
 
 const expLogos = [
     { name: "logo1", imgPath: "/images/logo1.png" },
